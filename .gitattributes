@@ -1,0 +1,2 @@
+*.brd binary merge=useTheirs
+*.sch binary merge=useTheirs
